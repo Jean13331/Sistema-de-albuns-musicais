@@ -1,1 +1,1 @@
-# Sistema-de-albuns-musicais
+Esse projeto e apenas mais um da faculdade mas achei interessante postar ele aqui por ter utilizado o CRUD criação, leitura, atualizão e delete. Por mais que o projeto chame Sistema de albuns musicais o projeto em si nao toca nenhuma musica, como dito e mais para vermos como funciona consultas, atualizaçoes, etc.
